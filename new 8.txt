@@ -1,0 +1,15 @@
+https://www.salesforcebolt.com/2021/10/drag-and-drop-in-lightning-web-component.html
+
+https://niksdeveloper.com/salesforce/drag-and-drop-in-lwc-lightning-web-component/
+
+
+https://sfdcflight.blogspot.com/2020/05/salesforce-lwc-basic-drag-and-drop.html
+
+
+Main link
+
+https://niksdeveloper.com/salesforce/drag-and-drop-between-lwc-multiple/
+
+https://niksdeveloper.com/salesforce/drag-and-drop-in-lwc-lightning-web-component/
+
+

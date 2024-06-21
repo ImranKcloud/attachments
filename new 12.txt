@@ -1,0 +1,33 @@
+Product Code | Item Name | Mfr No. | Unit | Qty | Unit Price | Disc % | Price after Disc | Total | Warehouse | On Hand | First Avb
+
+
+Product Name : Item Name
+
+GJS Code : ProductCode
+
+Mfr No. : VendorNum__c
+
+Unit : unitMsr__c
+
+Unit Price : PriceBefDi__c
+
+Disc : DiscPrcnt__c
+
+Price after Disc : INMPrice__c
+
+
+Total : LineTotal__c
+
+
+Warehouse : lookup item ware house : Location__c
+
+On Hand : lookup item ware house : Available__c
+
+First Avb : lookup item ware house : First_Available__c
+
+
+
+SELECT Id,Product__c, Product__r.Name,Product__r.ProductCode, VendorNum__c, unitMsr__c, PriceBefDi__c, DiscPrcnt__c, INMPrice__c, LineTotal__c, SAP_Item_Warehouse__c FROM SAP_Sales_Order_Line__c
+
+
+drag_and_drop

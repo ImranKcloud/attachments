@@ -1,0 +1,26 @@
+
+sharmae.capili@burkefinancial.ca
+
+@[{!recordId.OwnerId}]@[{!recordId.Mortgage_Analyst__c}] @[0054R00000B8wIFQAZ] @[0054R00000BuoZsQAJ] The appraisal deposit payment has been completed and the appraisal quotes have been ordered. Sharmae, please follow up with the appraiser within 24hrs if you have not heard back from them.
+
+
+
+Prod
+
+sharmae user id - 0054R00000BuoZsQAJ
+
+template ids
+
+Appraiser Post-Appointment Follow Up - 00X4R000002TsWmUAK
+
+
+Upcoming Appraisal Appointment Email - 00X4R000002TsWhUAK
+
+
+New Appraisal Request - Deposit Collected (2023) - 00X4R000002TsHDUA0
+
+
+Appraisal Deposit Link Email - 00X4R000002TsYnUAK
+
+this.captureStartDate  Sun Oct 08 2023 01:20:11 GMT-0400 (Eastern Daylight Time)
+customCalendarLWC.js:1 this.captureEndDate  Sun Oct 15 2023 01:20:11 GMT-0400 (Eastern Daylight Time)

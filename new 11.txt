@@ -1,0 +1,62 @@
+tr.slds-hint-parent{
+    height: 40px;
+}
+
+
+AddAndEditPriceCmp2
+AddAndEditProductsCmp
+AllProductsCmp
+ParentDragDropCmp
+DragDrop
+
+https://techdicer.com/vertical-navigation-bar-in-lwc/
+
+.sidebar{
+    height:90vh;
+}
+.sidebar-button{    
+    width: 20px;
+}
+.open-panel {
+    width: 100%;
+    overflow:hidden;
+    transition: 0.3s;
+}
+.close-panel {
+    min-width: 0px;
+    overflow:unset;
+    transition: 0.3s;
+}
+.slds-split-view__toggle-button{
+    right: unset !important;
+    position: relative !important;;
+    width: unset !important;
+}
+
+
+togglePanel() {
+        let leftPanel = this.template.querySelector("div[data-my-id=leftPanel]");
+
+        if (leftPanel.classList.contains('slds-is-open')) {
+            leftPanel.classList.remove("slds-is-open");
+            leftPanel.classList.remove("open-panel");
+            leftPanel.classList.add("slds-is-closed");
+            leftPanel.classList.add("close-panel");
+        } else {
+            leftPanel.classList.add("slds-is-open");
+            leftPanel.classList.add("open-panel");
+            leftPanel.classList.remove("slds-is-closed");
+            leftPanel.classList.remove("close-panel");
+        }
+
+    }
+	
+	
+	  
+    <lightning-button-icon onclick={togglePanel} variant="bare" icon-name="utility:left"
+    class="slds-button slds-button_icon slds-button_icon slds-split-view__toggle-button sidebar-button"
+    aria-controls="split-view-id" aria-expanded="true" style="float: inline-end;">
+</lightning-button-icon>
+
+
+ data-my-id="leftPanel"

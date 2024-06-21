@@ -1,0 +1,53 @@
+https://appexchange.salesforce.com/appxListingDetail?listingId=a0N4V00000GmST0UAN
+
+
+https://www.facebook.com/flexpricer/videos/flexpricer-cpq-for-salesforce/3427109187343951/
+
+
+Checking Discount in Schema
+Product volume discount 
+Campaign product in salesfroce 
+GST_Status_c field on Account
+
+
+2.	Fields to display in product grid
+  | First Avb
+
+
+
+Product obj
+
+GJS Code
+Opportunity Product Name
+
+
+SAP_Quote_Line__c obj
+Qty field
+Unit Price field
+Price After Discount field
+Total field
+Warehouse lookup
+Discount % field
+Unit field
+Mfr No. field
+On Hand lookup
+
+3.	Warehouse obj
+Locations field
+default =S1: SYD Warehouse
+
+
+Item Warehouse obj
+On Hand(Available field)
+
+
+Product Code | Item Name |  |  | Warehouse | On Hand | First Avb
+SAP_Sales_Order_Line__c
+
+Qty - Quantity__c
+Unit - unitMsr__c
+Mfr No. - VendorNum__c
+Price after Disc - INMPrice__c
+Unit Price - PriceBefDi__c
+Disc % - DiscPrcnt__c
+Total - LineTotal__c

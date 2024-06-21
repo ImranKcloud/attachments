@@ -1,0 +1,9 @@
+Please see below as requested:
+Chatter Post - From Opportunity Owner: @[Shaemae user] Friendly reminder to please follow up with the appraiser to confirm the appointment was completed and when we can expect the report if you have not already done so. Thanks! @[{!$Record.Mortgage_Analyst__r.Id}] @[0054R00000B8wIFQAZ]
+Email template for the payment link: Appraisal Deposit Link Email (I wasn't sure what the link would be, so I just put a place filler for now)
+Also, I got the below notification in Salesforce regarding Conversation Insights, can you see if we are able to now integrate CI?
+Record your calls to gain insights!
+Your account is all set up for using Einstein Conversation Insights, you can start recording your calls to gain actionable insights.
+
+
+worked on time track records time zone issue
