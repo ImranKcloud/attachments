@@ -5,7 +5,7 @@ https://niksdeveloper.com/salesforce/drag-and-drop-in-lwc-lightning-web-componen
 
 https://sfdcflight.blogspot.com/2020/05/salesforce-lwc-basic-drag-and-drop.html
 
-
+fghfgh
 Main link
 
 https://niksdeveloper.com/salesforce/drag-and-drop-between-lwc-multiple/
