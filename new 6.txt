@@ -1,7 +1,7 @@
 
 sharmae.capili@burkefinancial.ca
 
-@[{!recordId.OwnerId}]@[{!recordId.Mortgage_Analyst__c}] @[0054R00000B8wIFQAZ] @[0054R00000BuoZsQAJ] The appraisal deposit payment has been completed and the appraisal quotes have been ordered. Sharmae, please follow up with the appraiser within 24hrs if you have not heard back from them.
+@[{!recordhId.OwnerId}]@[{!recordId.Mortgage_Analyst__c}] @[0054R00000B8wIFQAZ] @[0054R00000BuoZsQAJ] The appraisal deposit payment has been completed and the appraisal quotes have been ordered. Sharmae, please follow up with the appraiser within 24hrs if you have not heard back from them.
 
 
 
